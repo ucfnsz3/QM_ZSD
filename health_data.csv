@@ -1,4 +1,4 @@
-Codes,Names,Borough,health,population per square kilometre,life expectancy,travel by bicycle,area_of_greenspace,unemployment rate,"homes with access to open space, nature, and greenspace",crime rate,deliberate fires,subjective well-being average score
+Codes,Names,Borough,health,population per square kilometre,life expectancy,travel by bicycle,area of greenspace,unemployment rate,"homes with access to open space, nature, and greenspace",crime rate,deliberate fires,subjective well-being average score
 E09000001,City of London,City of London,0.88,2437.64,83.7,5.3,4.83,9.5,0.14,16.99,0.135135135,7.655962548
 E05000026,Abbey,Barking and Dagenham,0.87,11960.13,82.13,0.8,19.85,8.91,1.01,151.9,1.010816058,7.789196612
 E05000027,Alibon,Barking and Dagenham,0.82,8277.74,78.3,1,22.92,10.2,0.67,117.57,0.670123764,7.553030303
